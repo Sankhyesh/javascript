@@ -21,7 +21,5 @@
     $string = 'hello';
     echo $number;
     echo $string;    
-
-
-
+    
 ?>
